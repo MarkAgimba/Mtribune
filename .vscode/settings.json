@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "virtual/bin/python",
+    "editor.defaultFormatter": "vscode.emmet",
+    "git.ignoreLimitWarning": true
+}
